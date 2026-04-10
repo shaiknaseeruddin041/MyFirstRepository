@@ -1,1 +1,1 @@
-This branch2
+Hello from branch1 to branch2
